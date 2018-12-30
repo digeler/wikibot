@@ -1,1 +1,1 @@
-# wikibot
+# wikibot a bot for teams
